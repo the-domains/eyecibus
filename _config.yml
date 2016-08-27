@@ -1,0 +1,14 @@
+layout_spectrum: 0.10762072098441422
+typography_spectrum: 0.6492109075188637
+color:
+  brandStrength: 0.11352617642842233
+  lightness: 0.04140063212253153
+  saturation: 0.4208592737559229
+  rhythmicContrast: 0.9848662808071822
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: eyecibus
